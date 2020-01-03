@@ -27,7 +27,7 @@ sf30thac_toolを使ってEPROM書き込み代行業者に
 ・強P+スタート:ガークラ切り替え(NONE or NORMAL)  
 ・弱K+スタート:OC残り時間切り替え(INF or NORMAL)  
 ・中K+スタート:カウンター切り替え(COUNTER or NORMAL)  
-・大K+スタート:操作者切り替え(CPU or HUMAN)  
+・強K+スタート:操作者切り替え(CPU or HUMAN)  
 
 【備考】  
 チートで強制的に開放した隠し要素はバックアップされません。  

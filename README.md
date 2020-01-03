@@ -1,4 +1,4 @@
-Street Fighter ZERO3 Training Edition v1.
+Street Fighter ZERO3 Training Edition v1.1  
 
 980629 JAPANにトレモ機能を増設しました。  
 パッチしたEPROMを実機に取り付ければ  
